@@ -28,7 +28,7 @@ using SQL.
 
 **## Dataset**
 
-\- Source: AB\_NYC\_Dataset
+\- Source: airbnb_raw
 
 \- Size: 280 rows, 16 columns
 
@@ -65,9 +65,6 @@ Different neighbourhoods emerge as the cheapest option depending on room type:
 
 
 **Private rooms:** Staten Island 
-
-
-
 **Entire home/apt:** Brooklyn
 
 
@@ -84,15 +81,15 @@ Entire home/apt listings show a wide price range (£65–£800). The unusually l
 
 **## Repository Structure**
 
-\- `sql/AB\_NYC\_Data\_Cleaning.sql`
-
-\- `sql/AB\_NYC\_Exploratory\_Data\_Analysis.sql`
+\- `airbnb-sql-data-analysis/AB_NYC_Data_Cleaning.sql`
+\- `airbnb-sql-data-analysis/AB_NYC_Exploratory_Data_Analysis.sql`
 
 
 
 **## Next Steps**
 
 \- Visualise findings in Power BI / Tableau
+
 
 
 
