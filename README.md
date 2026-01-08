@@ -39,8 +39,9 @@ This highlights how affordability varies not only by room type but also by locat
 Entire home/apt listings show a wide price range (£65–£800). The unusually low minimum price (£65) is atypical for this room type and may indicate pricing anomalies, data quality issues, or exceptional listings. This category was analysed in more detail due to its relevance for families and longer stays.
 
 ## Repository Structure
-- `sql/01_data_cleaning.sql`
-- `sql/02_exploratory_analysis.sql`
+- `sql/AB_NYC_Data_Cleaning.sql`
+- `sql/AB_NYC_Exploratory_Data_Analysis.sql`
 
 ## Next Steps
 - Visualise findings using Power BI or Tableau
+
