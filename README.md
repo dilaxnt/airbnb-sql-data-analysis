@@ -65,6 +65,9 @@ Different neighbourhoods emerge as the cheapest option depending on room type:
 
 
 **Private rooms:** Staten Island 
+
+
+
 **Entire home/apt:** Brooklyn
 
 
